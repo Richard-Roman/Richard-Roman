@@ -11,3 +11,6 @@
 -	Git.
 -	Diseño y modelado de base de datos.
 -	SQL Server
+## Proyectos:
+### [Sistema de monitorización y riego automático con ESP32.](https://github.com/Richard-Roman/RiegoJardin-ESP32.git)
+Permite gestionar y controlar el riego remoto de jardines, con monitoreo de temperatura y humedad usando ESP32 y MQTT.
