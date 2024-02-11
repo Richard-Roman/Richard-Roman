@@ -1,16 +1,13 @@
-### Hi there 👋
+# Richard Adan Roman Tocto 
 
-<!--
-**Richard-Roman/Richard-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| <img src="https://github.com/Richard-Roman/Richard-Roman/blob/9accaa651b32676cbb531a10579c7b67db4f82d8/Richard-Roman.jpg" alt="Richard Roman" width="300" height="auto"> | **Futuro Ingeniero de sistemas e Informática.** <br><br> *Curso el V ciclo de la carrera de Ingeniería de Sistemas e Informática en la Universidad Nacional de San Martín.* |
+| :---: | :---: |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tengo conocimientos esenciales de:
+- Diseño de algoritmos.
+-	Java.
+-	Python.
+-	Arduino.
+-	Git.
+-	Diseño y modelado de base de datos.
+-	SQL Server
