@@ -14,3 +14,6 @@
 ## Proyectos:
 ### [Sistema de monitorización y riego automático con ESP32.](https://github.com/Richard-Roman/RiegoJardin-ESP32.git)
 Permite gestionar y controlar el riego remoto de jardines, con monitoreo de temperatura y humedad usando ESP32 y MQTT.
+
+### [Carrito Tri-Modal con Arduino](https://github.com/Richard-Roman/CarritoMultiModo-Arduino.git)
+Carrito Trimodal con Arduino: Controlado por Bluetooth, sigue líneas y evita obstáculos.
